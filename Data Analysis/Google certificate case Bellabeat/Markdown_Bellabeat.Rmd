@@ -102,8 +102,8 @@ library(tinytex)
 library(viridis)
 
 
-Caso_Bellabeat <- read_csv("C:/Users/tcows/Downloads/Caso Bellabeat.csv")
-Fitness_Data <- read_csv("C:/Users/tcows/Downloads/Caso Bellabeat - Fitness Consumer Data.csv")
+Caso_Bellabeat <- read_csv("/Caso Bellabeat.csv")
+Fitness_Data <- read_csv("/Caso Bellabeat - Fitness Consumer Data.csv")
 View(Caso_Bellabeat)
 View(Fitness_Data)
 
